@@ -33,6 +33,9 @@ Let's link to useful tools for data science:
 
 here is a sunset 
 
+"<img src = "images/IMG_9217.jpg" style="width:75%">" : how to code images in html
+so u can make edits easier.
+
 ![](images/IMG_9217.jpg)
 
 ## Link to page within the sight
