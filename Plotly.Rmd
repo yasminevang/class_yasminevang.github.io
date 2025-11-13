@@ -70,6 +70,16 @@ nyc_airbnb |>
 ```
 
 
+## ggplotly
+
+```{r}
+ggp_scatter =
+  nyc_airbnb |> 
+  ggplot(aes(x = lat, y = long, color = price)) +
+  geom_point()
+
+ggplotly(ggp_scatter)
+```
 
 
 
